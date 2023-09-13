@@ -1,0 +1,12 @@
+.col-3{
+  font-style: italic;
+  padding-top: 90px;
+
+}
+.box{
+  transition: 0.5s;
+
+}
+.box:hover{
+  transform: scale(1.0);
+}
